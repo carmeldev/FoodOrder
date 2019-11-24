@@ -1,22 +1,75 @@
 .App {
   text-align: center;
+} 
+
+.nav1 {
+  background-color: black !important;
 }
 
-.App-logo {
-  height: 40vmin;
+.textInImage{
+   color: white;
+  padding: 5%;
+  position: absolute;
+  top: 8px;
+  left: 16px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.foodRowIcon{
+  min-width: 30px;
+  max-width: 30px;
+  position: absolute;
+}
+
+.foodRowHeight {
+  height: 40px !important;
+  padding-top: 10px;
+}
+
+.totalField {
+  padding-bottom: 10px;
+  text-align: center;
+  padding-top: 10px;
+  background-color: orange;
+}
+
+.foodRowHighlight {
+  background-color: lightskyblue !important;
+}
+
+.foodEmptyCart {
+  text-align: center;
+  padding-top: 15%;;
+}
+
+.foodListTitle {
+  text-align: center;
+  padding-top: 5px;
+}
+
+.selectButtons {
+  padding-top: 5%;
+}
+
+.mainImage {
+  width: 100%;
+  height: auto;
+}
+
+.logoText{
+  color:orange;
+  font-style: bolder;
+}
+
+.foodContainer {
+  padding: 10px !important;
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+
+.imageDiv {
+  position: relative;
+}
+
+.btnOrder {
   color: white;
-}
-
-.App-link {
-  color: #09d3ac;
 }
