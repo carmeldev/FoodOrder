@@ -183,7 +183,7 @@ class App extends Component {
           </div>
         </div>
         <footer>
-          <div class="text-center"> Developed by <strong>Carmel Dev</strong> for TotalCloud Inc <br />
+          <div class="text-center"> Developed by <strong>Carmel Dev</strong><br />
             Mobile: +91 90958 62048  Email: carmeldevj@gmail.com </div>
         </footer>
       </div>
